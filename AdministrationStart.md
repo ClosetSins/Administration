@@ -1,4 +1,3 @@
-#Start
 
 Administration, this repository will mostly be about Julius Corp Admins.
 
